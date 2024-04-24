@@ -1,7 +1,7 @@
 <img width="1530" alt="image" src="https://github.com/joycelee91/SC1015_miniproject/assets/153515423/57accbc2-de27-40fc-a56e-6c0c4e3aaaba"># SC1015_miniproject
 
 ## About
----
+
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on car price prediction from Used Vehicle Dataser. For detailed walkthrough, please refer the source code in order from:
 
