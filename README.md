@@ -43,7 +43,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## New Things Learned from The Project
 1. Collaborating using GitHub
-2. Random Forest Model
+2. Removal of outliers from categorial variables 
+3. Random Forest Model 
 
 
 
@@ -53,6 +54,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 2. It's surprising that the linear regression model works better than the random forest model. Both times we tried the random forest model, it ended up with potential overfitting, suggesting it was remembering specific examples too much instead of learning general patterns. This makes it not do well when we use it on new data, especially when the dataset is small.
 3. To improve our linear regression models, we sugeest that using a larger dataset and reducing the skewness of variables using logarithmic will boost the performance of our models.
 4. To make our random forest model better, we need to be careful in tuning the parameters such as how many trees it uses, how deep each tree goes, and how many examples it needs in each bunch.
+5. Insurance companies, financial institutions, car buyers or sellers can benefit from our model to better predict a vehicle's price. 
+6. Online platforms can also integrate our model into their website to make the pricing process more transparent and instant.
+
 
 
 ## Reference
