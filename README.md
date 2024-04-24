@@ -1,4 +1,6 @@
-<img width="1530" alt="image" src="https://github.com/joycelee91/SC1015_miniproject/assets/153515423/57accbc2-de27-40fc-a56e-6c0c4e3aaaba"># SC1015_miniproject
+<img width="1530" alt="image" src="https://github.com/joycelee91/SC1015_miniproject/assets/153515423/57accbc2-de27-40fc-a56e-6c0c4e3aaaba">
+
+# SC1015_miniproject - Car Price Prediction
 
 ## About
 
@@ -13,6 +15,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Contibutors
 
 1. @joycelee91 : Data Extraction and Analysis
+2. @maeganliew: Linear Regression Model
+3. @hngkhai: Random Forest Model
 
 
 ## Problem and Goal
