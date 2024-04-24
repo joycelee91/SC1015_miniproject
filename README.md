@@ -3,12 +3,12 @@
 ## About
 
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on car price prediction from Used Vehicle Dataser. For detailed walkthrough, please refer the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on car price prediction from [Used Vehicle Dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho). For detailed walkthrough, please refer the source code in order from:
 
 1. [Data Extraction](https://github.com/joycelee91/SC1015_miniproject/blob/cddf0128614ab1f4ccd28bd6164f7baa0b3d6a28/car-price-prediction%20(1).ipynb#L1)
-2. Data Analysis and Visualisation
-3. Linear Regression Model
-4. Random Forest Model
+2. [Data Analysis and Visualisation](https://github.com/joycelee91/SC1015_miniproject/blob/cddf0128614ab1f4ccd28bd6164f7baa0b3d6a28/car-price-prediction%20(1).ipynb#L1041)
+3. [Linear Regression Model](https://github.com/joycelee91/SC1015_miniproject/blob/cddf0128614ab1f4ccd28bd6164f7baa0b3d6a28/car-price-prediction%20(1).ipynb#L2905)
+4. [Random Forest Model](https://github.com/joycelee91/SC1015_miniproject/blob/cddf0128614ab1f4ccd28bd6164f7baa0b3d6a28/car-price-prediction%20(1).ipynb#L3755)
 
 ## Contibutors
 
